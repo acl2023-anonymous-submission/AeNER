@@ -47,6 +47,6 @@ To run only the evaluation on the best model checkpoint, use:
 To be added.
 
 ## Credits
-Some operations in the prediction module were based on the code from NumNet+ [NumNet+](https://github.com/llamazing/numnet_plus), although extensive modifications were made.
+Some operations in the prediction module were based on the code from [NumNet+](https://github.com/llamazing/numnet_plus), although extensive modifications were made.
 
 The evaluation and dataset readers were based on the [code from the original DROP paper](https://github.com/allenai/allennlp-reading-comprehension/tree/master/allennlp_rc).
