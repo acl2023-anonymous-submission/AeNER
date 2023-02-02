@@ -1,6 +1,6 @@
 # AeNER
 
-This is the official code repository for AeNER, a method for numerical reasoning over text and tables. Anonymized for conference submission.
+This is the official code repository for AeNER, a method for numerical reasoning over text and tables. Anonymized for a conference submission.
 
 AeNER uses number value embeddings that are passed through multiple Transformer layers to obtain a numerically-aware representation of the input question and the context.
 
@@ -12,7 +12,7 @@ In a new conda envorinment, install PyTorch 1.11 and other dependencies using th
 
 `pip install -r requirements.txt`
 
-The code also supports using wandb for experiment management. If you want to use it, log in to your account using the [W&B quickstart instructions](https://docs.wandb.ai/quickstart).
+The code also supports using wandb for experiment management. If you want to use it, log in to your account following the [W&B quickstart instructions](https://docs.wandb.ai/quickstart).
 
 ## Configuration files
 
