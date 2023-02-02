@@ -34,7 +34,7 @@ This will preprocess the dataset specified in the config file and save the proce
 
 ## Training and evaluation
 
-To train the model and evaluating, run:
+To run training and evaluation of the model, run:
 
 `python train_eval.py --config_path configs/config.json`
 
