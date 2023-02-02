@@ -1,6 +1,6 @@
 # AeNER
 
-This is the official code repository for AeNER, a method for numerical reasoning over text and tables.
+This is the official code repository for AeNER, a method for numerical reasoning over text and tables. Anonymized for conference submission.
 
 AeNER uses number value embeddings that are passed through multiple Transformer layers to obtain a numerically-aware representation of the input question and the context.
 
